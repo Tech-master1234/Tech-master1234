@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Tech-master1234
 - 👀 I’m interested in AI and Data Science
 - 🌱 I’m currently learning Data science
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate
 - 📫 How to reach me manojbarathi1234@gmail.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: Nothingness
 - ⚡ Fact: Work smart 
 
 <!---
